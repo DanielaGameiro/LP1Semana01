@@ -15,6 +15,12 @@ namespace TiposVarios
             Console.WriteLine(b);
             Console.WriteLine(c);
             Console.WriteLine(d);
+
+            char copyrightSymbol = '\u00A9';
+            char scissorSymbol = '\u2703';
+
+            Console.WriteLine(copyrightSymbol);
+            Console.WriteLine(scissorSymbol);
         }
     }
 }
