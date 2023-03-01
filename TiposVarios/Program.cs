@@ -29,6 +29,12 @@ namespace TiposVarios
             Console.WriteLine(e);
             Console.WriteLine(f);
             Console.WriteLine(g);
+
+            bool b1 = true;
+            bool b2 = d > a;
+
+            Console.WriteLine(b1);
+            Console.WriteLine(b2);
         }
     }
 }
