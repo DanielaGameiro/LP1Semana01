@@ -21,6 +21,14 @@ namespace TiposVarios
 
             Console.WriteLine(copyrightSymbol);
             Console.WriteLine(scissorSymbol);
+
+            float e = 1.234f;
+            double f = 1.2345;
+            decimal g = 123.45m;
+
+            Console.WriteLine(e);
+            Console.WriteLine(f);
+            Console.WriteLine(g);
         }
     }
 }
